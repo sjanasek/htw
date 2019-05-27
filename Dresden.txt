@@ -1,0 +1,7 @@
+Montag: 1
+Dienstag:17
+Mittwoch:9
+Donnerstag:4
+Freitag:2
+Samstag:12
+Sonntag:0
